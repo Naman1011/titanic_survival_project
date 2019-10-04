@@ -20,7 +20,7 @@ Contents:
 7)Creating Submission File
 
 '''
-
+#numpy is used
 #1) Import Necessary Libraries
 #First off, we need to import several Python libraries such as numpy, pandas,
  # matplotlib and seaborn.
