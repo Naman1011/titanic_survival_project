@@ -60,7 +60,7 @@ print( train.describe(include="all")  )
 
 print(  "\n"  )
 
-
+#print(comment)
 
 #STEP-3) Data Analysis
 #**************************************************
