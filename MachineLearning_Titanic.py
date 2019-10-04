@@ -700,10 +700,9 @@ x_train, x_val, y_train, y_val=train_test_split(
     input_predictors, ouptut_target, test_size = 0.20, random_state = 7)
 
 
-
+#Models description
 #Testing Different Models
 #I will be testing the following models with my training data (got the list from here):
-
 #1) Logistic Regression
 #2) Gaussian Naive Bayes
 #3) Support Vector Machines
