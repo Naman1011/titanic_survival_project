@@ -7,7 +7,7 @@ The data has been split into two groups:
 1) training set (train.csv)   891 Rows
 2) test set (test.csv)        418 Rows
 
-
+#machine_learning_model
 
 
 Contents:
