@@ -29,7 +29,7 @@ Contents:
 import numpy as np
 import pandas as pd
 pd.set_option('display.width', 1000)
-pd.set_option('display.max_column', 16)
+pd.set_option('display.max_column', 16) #look you button it not so cool
 pd.set_option('precision', 2)
 
 #visualization libraries
@@ -54,7 +54,7 @@ print("A look at the training data : \n", train.describe() )
 
 print( "\n"  )
 
-print( train.describe(include="all")  )
+print( train.describe(include="all")  ) 
 
 
 
