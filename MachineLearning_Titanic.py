@@ -491,7 +491,7 @@ for dataset in combine:
     dataset['Title'] = dataset['Title'].replace('Mlle', 'Miss')
     dataset['Title'] = dataset['Title'].replace('Ms', 'Miss')
     dataset['Title'] = dataset['Title'].replace('Mme', 'Mrs')
-
+#print train after grouping rare title
 print( "\n\nAfter grouping rare title : \n" , train  )
 
 
